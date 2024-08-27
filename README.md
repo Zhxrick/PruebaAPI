@@ -7,7 +7,7 @@ Esta es una API RESTful desarrollada con .NET Core que gestiona una base de dato
 
 ## Requisitos
 
-- [.NET Core SDK](https://dotnet.microsoft.com/download) (versión 6.0 o superior)
+- [.NET Core SDK](https://dotnet.microsoft.com/download) (versión 8.0 o superior)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) o [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-editions)
 - [Visual Studio](https://visualstudio.microsoft.com/) o [Visual Studio Code](https://code.visualstudio.com/) (opcional, pero recomendado para desarrollo)
 
