@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ZHARICK\\Documents\\PruebaAPI\\Prueba_Back\\Prueba_Back.csproj": {}
+    "C:\\Users\\ZHARICK\\Documents\\GitHub\\PruebaAPI\\Prueba_Back.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ZHARICK\\Documents\\PruebaAPI\\Prueba_Back\\Prueba_Back.csproj": {
+    "C:\\Users\\ZHARICK\\Documents\\GitHub\\PruebaAPI\\Prueba_Back.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZHARICK\\Documents\\PruebaAPI\\Prueba_Back\\Prueba_Back.csproj",
+        "projectUniqueName": "C:\\Users\\ZHARICK\\Documents\\GitHub\\PruebaAPI\\Prueba_Back.csproj",
         "projectName": "Prueba_Back",
-        "projectPath": "C:\\Users\\ZHARICK\\Documents\\PruebaAPI\\Prueba_Back\\Prueba_Back.csproj",
+        "projectPath": "C:\\Users\\ZHARICK\\Documents\\GitHub\\PruebaAPI\\Prueba_Back.csproj",
         "packagesPath": "C:\\Users\\ZHARICK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZHARICK\\Documents\\PruebaAPI\\Prueba_Back\\obj\\",
+        "outputPath": "C:\\Users\\ZHARICK\\Documents\\GitHub\\PruebaAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ZHARICK\\AppData\\Roaming\\NuGet\\NuGet.Config",

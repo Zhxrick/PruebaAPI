@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prueba_Back")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+070e456386e906700529a5b97e5c06474cf2ce17")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a13217a7df417404c09294944f641facb163d0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prueba_Back")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prueba_Back")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

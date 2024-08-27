@@ -1,15 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ZHARICK\\Documents\\PruebaAPI\\Prueba_Back\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ZHARICK\\Documents\\GitHub\\PruebaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88AA6C15-8EB4-4DB2-8AF0-E4510818B826}|Prueba_Back.csproj|c:\\users\\zharick\\documents\\github\\pruebaapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{88AA6C15-8EB4-4DB2-8AF0-E4510818B826}|Prueba_Back.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AA6C15-8EB4-4DB2-8AF0-E4510818B826}|Prueba_Back.csproj|c:\\users\\zharick\\documents\\github\\pruebaapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AA6C15-8EB4-4DB2-8AF0-E4510818B826}|Prueba_Back.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AA6C15-8EB4-4DB2-8AF0-E4510818B826}|Prueba_Back.csproj|c:\\users\\zharick\\documents\\github\\pruebaapi\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AA6C15-8EB4-4DB2-8AF0-E4510818B826}|Prueba_Back.csproj|solutionrelative:aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AA6C15-8EB4-4DB2-8AF0-E4510818B826}|Prueba_Back.csproj|c:\\users\\zharick\\documents\\github\\pruebaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AA6C15-8EB4-4DB2-8AF0-E4510818B826}|Prueba_Back.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AA6C15-8EB4-4DB2-8AF0-E4510818B826}|Prueba_Back.csproj|c:\\users\\zharick\\documents\\github\\pruebaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88AA6C15-8EB4-4DB2-8AF0-E4510818B826}|Prueba_Back.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 266,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +43,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\ZHARICK\\Documents\\GitHub\\PruebaAPI\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\ZHARICK\\Documents\\GitHub\\PruebaAPI\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-27T04:42:12.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AplicationDBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\ZHARICK\\Documents\\GitHub\\PruebaAPI\\AplicationDBcontext.cs",
+              "RelativeDocumentMoniker": "AplicationDBcontext.cs",
+              "ToolTip": "C:\\Users\\ZHARICK\\Documents\\GitHub\\PruebaAPI\\AplicationDBcontext.cs",
+              "RelativeToolTip": "AplicationDBcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:28:48.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZHARICK\\Documents\\GitHub\\PruebaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ZHARICK\\Documents\\GitHub\\PruebaAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:27:57.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ZHARICK\\Documents\\GitHub\\PruebaAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ZHARICK\\Documents\\GitHub\\PruebaAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T04:25:56.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\ZHARICK\\Documents\\GitHub\\PruebaAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\ZHARICK\\Documents\\GitHub\\PruebaAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:25:31.077Z",
+              "EditorCaption": ""
             }
           ]
         }
