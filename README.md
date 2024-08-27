@@ -1,14 +1,13 @@
-# PruebaAPI
 
 # Employee API
 
-## Descripci髇
+## Descripci贸n
 
-Esta es una API RESTful desarrollada con .NET Core que gestiona una base de datos de empleados. Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar, buscar empleados que fueron contratados despu閟 de una fecha espec韋ica.) en los registros de empleados.
+Esta es una API RESTful desarrollada con .NET Core que gestiona una base de datos de empleados. Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar, buscar empleados que fueron contratados despu茅s de una fecha espec铆fica.) en los registros de empleados.
 
 ## Requisitos
 
-- [.NET Core SDK](https://dotnet.microsoft.com/download) (versi髇 6.0 o superior)
+- [.NET Core SDK](https://dotnet.microsoft.com/download) (versi贸n 6.0 o superior)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) o [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-editions)
 - [Visual Studio](https://visualstudio.microsoft.com/) o [Visual Studio Code](https://code.visualstudio.com/) (opcional, pero recomendado para desarrollo)
 
@@ -28,14 +27,14 @@ Para esta API, la base de datos fue creada en SQL Server y consta de una tabla p
 Se han creado los siguientes procedimientos almacenados para gestionar las operaciones en la base de datos:
 
 1. **`sp_crearEmpleado`**: Inserta un nuevo empleado en la tabla `Employees`.
-2. **`sp_editarEmpleado`**: Actualiza la informaci髇 de un empleado existente.
+2. **`sp_editarEmpleado`**: Actualiza la informaci贸n de un empleado existente.
 3. **`sp_EliminarEmpleado`**: Elimina un empleado de la base de datos basado en su ID.
 4. **`sp_listaEmpleados`**: Obtiene la lista completa de empleados.
-5. **`sp_obtenerEmpleados`**: Obtiene los detalles de un empleado espec韋ico basado en su ID.
-6. **`sP_FechaContratoEmpleados`**: Obtiene los empleados contratados despu閟 de una fecha espec韋ica.
+5. **`sp_obtenerEmpleados`**: Obtiene los detalles de un empleado espec铆fico basado en su ID.
+6. **`sP_FechaContratoEmpleados`**: Obtiene los empleados contratados despu茅s de una fecha espec铆fica.
 
 
-## Instalaci髇 y Configuraci髇 de la API
+## Instalaci贸n y Configuraci贸n de la API
 
 
 
