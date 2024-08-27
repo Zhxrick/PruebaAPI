@@ -87,12 +87,12 @@ namespace Prueba_Back.Controllers
                 }
                 if (id != updateEmployee.EmployeeId)
                 {
-                    return BadRequest("Employee ID mismatch.");
+                    return BadRequest("400");
                 }
                 _context.Update(updateEmployee);
                 await _context.SaveChangesAsync();
 
-                return Ok("Employee updated successfully.");
+                return Ok("200 actualizado");
             }
             catch (Exception ex)
             {
@@ -110,15 +110,15 @@ namespace Prueba_Back.Controllers
 
                 if (employee == null)
                 {
-                    return NotFound("Employee not found.");
+                    return NotFound("404 no encontrado");
                 }
 
                 _context.Employees.Remove(employee);
                 await _context.SaveChangesAsync();
 
-                return Ok("Employee deleted successfully.");
+                return Ok("200 eliminaddo");
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 return StatusCode(500);
             }
